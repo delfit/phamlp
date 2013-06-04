@@ -1,0 +1,7 @@
+{
+	"name": "delfit/phamlp",
+	"description": "PHP port of Haml and Sass",
+	"version": "3.2",
+	
+	"type": "library"
+}
